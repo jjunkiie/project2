@@ -4,7 +4,7 @@
 
 | Field     | Value               |
 |-----------|---------------------|
-| **Name**  | Курбанмагомедов Магомед        |
+| **Name**  | Исалов Иса        |
 | **Group** | РПИС 1            |
 
 > **Replace the data above with your own!**
